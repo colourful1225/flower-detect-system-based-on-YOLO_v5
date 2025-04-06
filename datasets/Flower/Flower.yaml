@@ -1,0 +1,19 @@
+path: G:/BaiduNetdiskDownload/基于YOLOv5的鲜花识别检测系统/源码+数据集/FlowerRecognition/datasets/Flower
+train: train/images/
+val: valid/images/
+test: test/images/
+names:
+  0: 15
+  1: Allium
+  2: Borage
+  3: Burdock
+  4: Calendula
+  5: Chicory
+  6: Chive blossoms
+  7: Coltsfoot
+  8: Common mallow
+  9: Common yarrow
+  10: Coneflower
+  11: Cow parsley
+  12: Dandelion
+  13: Gardenia
